@@ -6,7 +6,7 @@
     "node": ">=0.6.15"
   },
   "dependencies": {
-    "express": "2.5.8",
+    "express": "4.22.0",
     "config": "0.4.11",
     "request": "2.9.153"
   }
